@@ -1,0 +1,39 @@
+body {
+    background-image: url("../img/studio.png");
+    background-size: cover;
+    font-family: 'Ghibli', sans-serif !important;
+}
+
+#navBarStudio {
+    font-family: 'Ghibli', sans-serif !important;
+}
+
+.titulo {
+    text-align: center;
+}
+
+.borderless {
+    border-color: white !important;
+}
+
+#studioTitulo {
+    text-decoration: overline;
+}
+
+#cardPelicula {
+    margin-left: auto;
+    margin-right: auto;
+    width: 25vw !important;
+    text-align: center;
+    margin-bottom: 3vh;
+}
+
+#titulo {
+    font-weight: bold !important;
+}
+
+#botonPelicula {
+    margin-top: 10px !important;
+    font-weight: bold !important;
+    align-self: center !important;
+}
